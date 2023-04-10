@@ -12,10 +12,10 @@ export default function Navbar({ children }: any) {
             </li>
             <li>
               <a
-                className="font-poppins bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
+                className="font-poppins bg-gradient-to-r from-purple-700 to-purple-500 text-white px-4 py-2 rounded-md ml-8"
                 href="#"
               >
-                Resume
+                Currículo
               </a>
             </li>
           </ul>
